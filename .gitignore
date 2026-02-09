@@ -1,0 +1,33 @@
+# Meteor
+.meteor/local/
+.meteor/build/
+.meteor/.finished-upgraders
+.meteor/.gitignore
+.meteor/.id
+ECHO is on.
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+ECHO is on.
+# Environment
+.env
+.env.local
+ECHO is on.
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+ECHO is on.
+# OS
+.DS_Store
+Thumbs.db
+ECHO is on.
+# Build
+build/
+dist/
+ECHO is on.
+# Misc
+*.log
+coverage/
